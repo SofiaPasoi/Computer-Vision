@@ -1,4 +1,4 @@
-#Pasoi Sofia, 2798, 6o etos
+
 from matplotlib import pyplot as plt
 from decimal import Decimal
 from PIL import Image
